@@ -13,3 +13,5 @@ This repository contains git and github files
 **bold type of font style**
 
 ***both bold and italic type of font style***
+
+[Google](www.google.com)
